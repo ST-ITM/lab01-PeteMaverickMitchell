@@ -1,0 +1,39 @@
+.btn1{
+	position : absolute;
+    top: 650px;
+    left: 450px;
+    background: url(shadowicon.jpg);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+
+.btn2{
+	position : absolute;
+    top: 650px;
+    left: 700px;
+    background: url(vegetaicon.jpg);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+
+.btn3{
+	position : absolute;
+    top: 650px;
+    left: 950px;
+    background: url(elsaicon.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+
+.btn4{
+	position : absolute;
+    top: 650px;
+    left: 1200px;
+    background: url(topgunicon.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
