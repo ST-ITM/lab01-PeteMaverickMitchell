@@ -1,0 +1,75 @@
+h1 {
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size : 50px
+}
+
+.eng {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.code {
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: 100px;
+}
+
+.p1{
+    position: absolute;
+    margin-left: 290px;
+    margin-top: 330px;
+    font-size: 20px
+}
+
+.p2{
+    position: absolute;
+    margin-left: 290px;
+    margin-top: 380px;
+    font-size: 20px
+}
+
+.chart{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 430px;
+}
+
+.p3{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 330px;
+    font-size: 20px
+}
+
+.p4{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 380px;
+    font-size: 20px
+}
+
+.painter{
+    position: absolute;
+    margin-left: 980px;
+    margin-top: 430px;
+}
+
+.p5{
+    position: absolute;
+    margin-left: 1040px;
+    margin-top: 660px;
+    font-size: 20px
+}
+
+.btn1 {
+    position : absolute;
+    top: 0px;
+    left: 900px;
+    background: url(./img/elsaicon2.jpg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+

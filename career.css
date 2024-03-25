@@ -1,0 +1,205 @@
+h1 {
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size : 50px
+}
+
+.ball1 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 120px;
+}
+
+.ball2 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 120px;
+}
+
+.ball3 {
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 120px;
+}
+
+.ball4 {
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 120px;
+}
+
+.arrow1 {
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 102px;
+}
+
+.arrow2 {
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 102px;
+}
+
+.arrow3 {
+    position: absolute;
+    margin-left: 1140px;
+    margin-top: 102px;
+}
+
+.hook1 {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 235px;
+}
+
+.hook2 {
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 235px;
+}
+
+.hook3 {
+    position: absolute;
+    margin-left: 942px;
+    margin-top: 235px;
+}
+
+.hook4 {
+    position: absolute;
+    margin-left: 1392px;
+    margin-top: 235px;
+}
+
+.hat {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 405px;
+}
+
+.p1 {
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 565px;
+    font-size : 15px
+}
+
+.p2 {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 595px;
+    font-size : 15px
+}
+
+.college {
+    position: absolute;
+    margin-left: 535px;
+    margin-top: 445px;
+}
+
+.p3 {
+    position: absolute;
+    margin-left: 510px;
+    margin-top: 565px;
+    font-size : 15px
+}
+
+.p4 {
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 595px;
+    font-size : 15px
+}
+
+.accountant {
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 445px;
+}
+
+.p5 {
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 570px;
+    font-size : 15px
+}
+
+.p6 {
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 600px;
+    font-size : 15px
+}
+
+.p9 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 630px;
+    font-size : 15px
+}
+
+.p10 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 660px;
+    font-size : 15px
+}
+
+.p11 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 690px;
+    font-size : 15px
+}
+
+.paint {
+    position: absolute;
+    margin-left: 1450px;
+    margin-top: 445px;
+}
+
+.p7 {
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 570px;
+    font-size : 15px
+}
+
+.p8 {
+    position: absolute;
+    margin-left: 1480px;
+    margin-top: 600px;
+    font-size : 15px
+}
+
+.p12 {
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 630px;
+    font-size : 15px
+}
+
+.p13 {
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 660px;
+    font-size : 15px
+}
+
+.p14 {
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 690px;
+    font-size : 15px
+}
+
+.btn1 {
+    position : absolute;
+    top: 0px;
+    left: 900px;
+    background: url(./img/vegetaicon2.jpg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+
